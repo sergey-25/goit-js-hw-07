@@ -31,8 +31,4 @@ const createGallery = () => {
 createGallery();
 
 
-  const list = document.querySelectorAll('.ul');
-list.style.listStyle = 'none';
-  
-
-console.log(list.style);
+ 
